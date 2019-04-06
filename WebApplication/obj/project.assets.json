@@ -12542,11 +12542,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "E:\\Github\\AspWebApplication\\WebApplication\\WebApplication\\WebApplication.csproj",
+      "projectUniqueName": "E:\\Github\\AspWebpage\\WebApplication\\WebApplication\\WebApplication.csproj",
       "projectName": "WebApplication",
-      "projectPath": "E:\\Github\\AspWebApplication\\WebApplication\\WebApplication\\WebApplication.csproj",
+      "projectPath": "E:\\Github\\AspWebpage\\WebApplication\\WebApplication\\WebApplication.csproj",
       "packagesPath": "C:\\Users\\310299427\\.nuget\\packages\\",
-      "outputPath": "E:\\Github\\AspWebApplication\\WebApplication\\WebApplication\\obj\\",
+      "outputPath": "E:\\Github\\AspWebpage\\WebApplication\\WebApplication\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
