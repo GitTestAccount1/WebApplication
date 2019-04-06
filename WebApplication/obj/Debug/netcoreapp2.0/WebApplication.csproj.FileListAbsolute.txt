@@ -1,0 +1,11 @@
+E:\Github\AspWebApplication\WebApplication\WebApplication\bin\Debug\netcoreapp2.0\WebApplication.deps.json
+E:\Github\AspWebApplication\WebApplication\WebApplication\bin\Debug\netcoreapp2.0\WebApplication.runtimeconfig.json
+E:\Github\AspWebApplication\WebApplication\WebApplication\bin\Debug\netcoreapp2.0\WebApplication.runtimeconfig.dev.json
+E:\Github\AspWebApplication\WebApplication\WebApplication\bin\Debug\netcoreapp2.0\WebApplication.dll
+E:\Github\AspWebApplication\WebApplication\WebApplication\bin\Debug\netcoreapp2.0\WebApplication.pdb
+E:\Github\AspWebApplication\WebApplication\WebApplication\obj\Debug\netcoreapp2.0\WebApplication.csprojResolveAssemblyReference.cache
+E:\Github\AspWebApplication\WebApplication\WebApplication\obj\Debug\netcoreapp2.0\WebApplication.csproj.CoreCompileInputs.cache
+E:\Github\AspWebApplication\WebApplication\WebApplication\obj\Debug\netcoreapp2.0\WebApplication.AssemblyInfoInputs.cache
+E:\Github\AspWebApplication\WebApplication\WebApplication\obj\Debug\netcoreapp2.0\WebApplication.AssemblyInfo.cs
+E:\Github\AspWebApplication\WebApplication\WebApplication\obj\Debug\netcoreapp2.0\WebApplication.dll
+E:\Github\AspWebApplication\WebApplication\WebApplication\obj\Debug\netcoreapp2.0\WebApplication.pdb
